@@ -9,6 +9,8 @@ body {
 
 #sidebar {
     list-style-type: none;
+    display: inline;
+    float: right;
     color: #E43D12;
     margin: 0;
     padding: 0
