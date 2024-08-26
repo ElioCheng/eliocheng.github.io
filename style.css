@@ -11,7 +11,11 @@ body {
     list-style-type: none;
     display: inline;
     float: right;
-    color: #E43D12;
     margin: 0;
     padding: 0
+}
+
+a {
+    text-decoration: none;
+    color: #E43D12;
 }
