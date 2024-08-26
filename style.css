@@ -4,5 +4,10 @@ body {
 
 #welcome {
     text-align: center;
+    color: #E43D12
 }
 
+#sidebar {
+    margin: 0;
+    padding: 0
+}
